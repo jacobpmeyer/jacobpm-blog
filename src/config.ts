@@ -35,18 +35,3 @@ export const LOGO_IMAGE = {
   width: 216,
   height: 46,
 };
-
-export const SOCIALS = [
-  {
-    name: "Github",
-    href: "https://github.com/jacobpmeyer",
-    linkTitle: `${SITE.author} on Github`,
-    active: true,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/jacob-p-meyer/",
-    linkTitle: `${SITE.author} on LinkedIn`,
-    active: true,
-  },
-];
