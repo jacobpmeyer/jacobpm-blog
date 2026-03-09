@@ -15,7 +15,7 @@ export const SITE = {
     url: "https://github.com/jacobpmeyer/jacobpm-blog/edit/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
-    enabled: true,
+    enabled: false,
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
